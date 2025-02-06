@@ -1,5 +1,5 @@
 {
-	"name": "diyHue - Smart Light Ecosystem ",
-	"url": "https://github.com/diyhue/hassio-addon",
+	"name": "diyHue - Smart Light Ecosystem (mod)",
+	"url": "https://github.com/physicsG/hassio-addon-mod",
 	"maintainer": "diyHue <info@diyhue.org>"
 }

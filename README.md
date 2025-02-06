@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/diyhue/hassio-addon/blob/master/images/diyhue-hassio.png">
-<h1>Home Assistant Add-on: diyHue</h1>
+<h1>Home Assistant Add-on mod: diyHue mod</h1>
 <br>
 <p>Run <a href="https://diyhue.org">diyHue</a> as a Home Assistant Add-on</p>
 <a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdiyhue%2Fhassio-addon"><img src="https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg"></a>
